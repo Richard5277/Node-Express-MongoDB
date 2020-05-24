@@ -1,4 +1,4 @@
-# Node.js - Express - MongoDB(Mongoose)
+# Node.js ( Express ) - MongoDB (Mongoose)
 A RESTful api setup with Node.js ( express ) and MongoDB ( Mongoose )
 Serves the purpose of hosting local application backend
 
